@@ -41,4 +41,6 @@ public class FIghtingEnemy : MonoBehaviour
         }
     }
 
+
+
 }
